@@ -9,9 +9,7 @@ output: html_document
 Source code of the manuscript **Massively parallel, time-resolved single-cell RNA sequencing with scNT-Seq**. https://www.biorxiv.org/content/10.1101/2019.12.19.882050v2) 
 
 # Content
-* The code to reproduce the main figures
-
-The source data which were used as input in the above R files could be downloaded from xxx
+* The code to reproduce the main figures and the input files could be downloaded from [here] (https://drive.google.com/drive/folders/1CTdrLUpzye_nlZXWJH9ggS7BRzM-VSqQ?usp=sharing)
 
 # Contact
 * Peng Hu
