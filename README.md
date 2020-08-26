@@ -9,7 +9,7 @@ Source code of the manuscript **Massively parallel, time-resolved single-cell RN
 
 # Content
 
-## scNT-seq TC calling pipeline will including following steps:
+### scNT-seq TC calling pipeline will including following steps:
 
 1. First, ulitize the Drop-seq computational pipeline (James Nemesh, McCarroll Lab, version 1.0.1; Macosko et al., 2015) to map the reads into the genome and tag the reads with cell barcode, UMI barcode and Gene annotation in bam files. Second, annotate intron mapped reads in bam file since default Drop-seq computational pipeline (version 1.0.1) don't consider intronic reads.
 
@@ -19,9 +19,9 @@ Source code of the manuscript **Massively parallel, time-resolved single-cell RN
 
 4. Generate labeled and unlabeled matrix
 
-## The folder "notebook_for_figures" contains the code to reproduce the main figures
+### The folder "notebook_for_figures" contains the code to reproduce the main figures
 
-## The input files could be downloaded from [here] (https://drive.google.com/drive/folders/1CTdrLUpzye_nlZXWJH9ggS7BRzM-VSqQ?usp=sharing)
+The input files could be downloaded from [here] (https://drive.google.com/drive/folders/1CTdrLUpzye_nlZXWJH9ggS7BRzM-VSqQ?usp=sharing)
 
 # Contact
 * Peng Hu
