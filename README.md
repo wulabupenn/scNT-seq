@@ -21,6 +21,8 @@ Source code of the manuscript **Massively parallel, time-resolved single-cell RN
 
 ### The folder "notebook_for_figures" contains the code to reproduce the main figures
 
+For RNA velocity analysis in Fig 3a, we used Dynamo framework (https://github.com/aristoteleo/dynamo-release) which is developed by Dr. Xiaojie Qiu. 
+
 The input files could be downloaded from [here] (https://drive.google.com/drive/folders/1CTdrLUpzye_nlZXWJH9ggS7BRzM-VSqQ?usp=sharing)
 
 # Contact
