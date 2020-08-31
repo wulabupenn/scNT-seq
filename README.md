@@ -13,7 +13,7 @@ Source code of the manuscript **Massively parallel and time-resolved RNA sequenc
 
 - Step1_alignment.sh: utilize the Drop-seq computational pipeline (James Nemesh, McCarroll Lab, version 1.12; Macosko et al., 2015) to map the reads to the genome and tag the reads with cell barcode, UMI barcode and gene annotation in bam files. Next, we extracted intronic reads in bam file because the legacy Drop-seq computational pipeline (version 1.12) only consider exonic reads.
 
-- Step2_extract_alignment_info.sh: sam2tsv (https://github.com/lindenb/jvarkit/; version ec2c2364) is used to extract detailed alignment information from bam files and then T-to-C substitutions were identified in both experimental and control samples (without Timelapse chemical conversion reaction, as a control for background mutations).
+- Step2_extract_alignment_info.sh: sam2tsv (https://github.com/lindenb/jvarkit/; version ec2c2364) is used to extract detailed alignment information from bam files and then T-to-C substitutions are identified in both experimental and control samples (without Timelapse chemical conversion reaction, as a control for background mutations).
 
 - Step3_substract_background_locus.sh: exclude the genomic sites with background T-to-C substitutions from the downstream analysis.
 
