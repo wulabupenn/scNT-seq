@@ -33,6 +33,6 @@ Source code of the manuscript **Massively parallel and time-resolved RNA sequenc
 # Contact
 * Peng Hu
 * penghu@upenn.edu
-* Wu lab, Department of Genetics, University of Pennsylvania (https://www.wulabupenn.org)
+* [Wu lab](https://www.wulabupenn.org), Department of Genetics, University of Pennsylvania
 
 
