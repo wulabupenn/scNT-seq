@@ -1,8 +1,8 @@
 #!/bin/bash
 
-## This script ulitizes the Drop-seq computational pipeline (James Nemesh, McCarroll Lab, version 1.0.1, related documents: http://mccarrolllab.org/wp-content/uploads/2016/03/Drop-seqAlignmentCookbookv1.2Jan2016.pdf; Macosko et al., 2015) to map the reads into the genome and tag the reads with cell barcode, UMI barcode and Gene annotation in bam files
+## This script ulitizes the Drop-seq computational pipeline (James Nemesh, McCarroll Lab, version 1.12 (https://github.com/broadinstitute/Drop-seq/release/tag/v1.12), related documents: http://mccarrolllab.org/wp-content/uploads/2016/03/Drop-seqAlignmentCookbookv1.2Jan2016.pdf; Macosko et al., 2015) to map the reads into the genome and tag the reads with cell barcode, UMI barcode and gene annotation in bam files
 
-## Pre-install requirment: Drop-seq computational pipeline(version 1.0.1), Java, Picardtools, samtools, STAR, perl
+## Pre-install requirment: Drop-seq computational pipeline(version 1.12), Java, Picardtools, samtools, STAR, perl
 
 sample=$1 # sample name
 index=$2 # sequencing index (the order in the samplesheet for demultliplexing: "_S1","_S2")
