@@ -19,11 +19,11 @@ Source code of the manuscript **Massively parallel and time-resolved RNA sequenc
 
 - Step4_genetare_TC_matrix.sh: generate labeled and unlabeled gene expression matrix.
 
-### The folder "notebook_for_figures" contains the code to reproduce the main figures
-
-- The input files can be downloaded from [here] (https://drive.google.com/drive/folders/1CTdrLUpzye_nlZXWJH9ggS7BRzM-VSqQ?usp=sharing).
+### Raw and processed data files for this study:
 
 - Raw data files are available at NCBI Gene Expression Omnibus (GEO) (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141851).
+
+- The folder "notebook_for_figures" contains the R code to reproduce the main figures. The input files can be downloaded from [here] (https://drive.google.com/drive/folders/1CTdrLUpzye_nlZXWJH9ggS7BRzM-VSqQ?usp=sharing). Additional data analysis related information will be available upon request.
 
 - For time-resolved RNA velocity analysis in Figure 3a, we use Dynamo (https://github.com/aristoteleo/dynamo-release, developed by Dr. Xiaojie Qiu), an inclusive model of expression dynamics in metabolic labeling based scRNA-seq. 
 
