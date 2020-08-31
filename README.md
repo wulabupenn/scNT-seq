@@ -21,10 +21,11 @@ Source code of the manuscript **Massively parallel and time-resolved RNA sequenc
 
 ### The folder "notebook_for_figures" contains the code to reproduce the main figures
 
-The input files can be downloaded from [here] (https://drive.google.com/drive/folders/1CTdrLUpzye_nlZXWJH9ggS7BRzM-VSqQ?usp=sharing).
-Raw data is available at NCBI Gene Expression Omnibus (GEO) (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141851).
+- The input files can be downloaded from [here] (https://drive.google.com/drive/folders/1CTdrLUpzye_nlZXWJH9ggS7BRzM-VSqQ?usp=sharing).
 
-For time-resolved RNA velocity analysis in Figure 3a, we use Dynamo (https://github.com/aristoteleo/dynamo-release, developed by Dr. Xiaojie Qiu), an inclusive model of expression dynamics in metabolic labeling based scRNA-seq. 
+- Raw data files are available at NCBI Gene Expression Omnibus (GEO) (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141851).
+
+- For time-resolved RNA velocity analysis in Figure 3a, we use Dynamo (https://github.com/aristoteleo/dynamo-release, developed by Dr. Xiaojie Qiu), an inclusive model of expression dynamics in metabolic labeling based scRNA-seq. 
 
 
 # Contact
