@@ -5,7 +5,7 @@ date: "2020/8/31"
 output: html_document
 ---
 
-Source code of the manuscript **Massively parallel and time-resolved RNA sequencing in single cells with scNT-seq**. Nature Methods (in press) https://www.biorxiv.org/content/10.1101/2019.12.19.882050v2) 
+Source code of the manuscript **Massively parallel and time-resolved RNA sequencing in single cells with scNT-seq**. Nature Methods (in press), https://www.biorxiv.org/content/10.1101/2019.12.19.882050v2).
 
 # Content
 
