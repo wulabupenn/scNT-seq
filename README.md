@@ -21,9 +21,10 @@ Step4_genetare_TC_matrix.sh: generate labeled and unlabeled gene expression matr
 
 ### The folder "notebook_for_figures" contains the code to reproduce the main figures
 
+The input files could be downloaded from [here] (https://drive.google.com/drive/folders/1CTdrLUpzye_nlZXWJH9ggS7BRzM-VSqQ?usp=sharing).
+
 For time-resolved RNA velocity analysis in Figure 3a, we use Dynamo (https://github.com/aristoteleo/dynamo-release, developed by Dr. Xiaojie Qiu), an inclusive model of expression dynamics in metabolic labeling based scRNA-seq. 
 
-The input files could be downloaded from [here] (https://drive.google.com/drive/folders/1CTdrLUpzye_nlZXWJH9ggS7BRzM-VSqQ?usp=sharing)
 
 # Contact
 * Peng Hu
