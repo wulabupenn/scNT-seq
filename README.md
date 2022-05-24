@@ -27,7 +27,7 @@ Source code of the manuscript **Massively parallel and time-resolved RNA sequenc
 
 - The `neuron_revision_figures_n_s_velocity.ipynb` and `neuron_revision_figures.ipynb` files from the "notebook_for_figures" folder provide the time-resolved RNA velocity analysis and the conventional scRNA-seq RNA velocity analysis with [Dynamo](https://github.com/aristoteleo/dynamo-release). 
 
-- To reproduce the exact figures for time-resolved RNA velocity analysis in Figure 3a, please ensure installing the [Dynamo](https://github.com/aristoteleo/dynamo-release) version as printed out in the corresponding notebooks. Make sure also that `anndata==0.7.1` and `umap-learn==0.3.9`. Tutorials on using the newest dynamo for the scNT-seq dataset and more can be found [here](https://dynamo-release.readthedocs.io/en/latest/scNT_seq_readthedocs.html).
+- To reproduce the exact figures for time-resolved RNA velocity analysis in Figure 3a, please ensure installing the [Dynamo](https://github.com/aristoteleo/dynamo-release) version as printed out in the corresponding notebooks. Make sure also that `anndata==0.7.1` and `umap-learn==0.3.9`. Tutorials on using the newest dynamo for the scNT-seq dataset and more can be found [here](https://dynamo-release.readthedocs.io/en/latest/notebooks/scNT_seq_readthedocs.html).
 
 
 # Contact
